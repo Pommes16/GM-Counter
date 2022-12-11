@@ -1,10 +1,11 @@
 # GM-Counter
 
 
+Chip in Glass Driver VFD : BD-VFD
+https://www.noritake-elec.com/technology/general-technical-information/cig-driver-vfd
 
-
-
-
+A Guide to Fundamental VFD Operation
+https://www.noritake-elec.com/technology/general-technical-information/vfd-operation
 
 
 https://github.com/qrti/VFD-HCS-12SS59T
